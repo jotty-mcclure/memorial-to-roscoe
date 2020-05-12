@@ -1,0 +1,20 @@
+{
+  "name": "memorial-to-roscoe",
+  "version": "0.0.1",
+  "description": "A memorial to the greatest dog ever to live.",
+  "main": "index.js",
+  "repository": "https://github.com/jotty-mcclure/memorial-to-roscoe.git",
+  "author": "Joshua McClure <josh@joshuadmcclure.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^9.4.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "styled-components": "^5.1.0"
+  }
+}
