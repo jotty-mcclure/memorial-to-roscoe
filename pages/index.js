@@ -1,9 +1,11 @@
+import Layout from '../components/Layout';
+import MainGreeting from '../components/MainGreeting';
+
 const Index = () => {
 	return (
-		<>
-			<h1>Memorial to Roscoe</h1>
-			<p>You are missed and loved, bud.</p>
-		</>
+		<Layout>
+			<MainGreeting />
+		</Layout>
 	);
 };
 
