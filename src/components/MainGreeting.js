@@ -26,7 +26,7 @@ const ProfilePic = styled.img`
 	max-height: 25rem;
 	width: 48vh;
 	height: auto;
-	margin: 0 auto;
+	margin: 0 auto 1rem;
     border: 1vh solid #fff;
 `;
 
